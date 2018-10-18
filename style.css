@@ -1,0 +1,59 @@
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;
+	text-align: center;}
+
+body {
+   width: 90%;
+   margin: 0 auto;
+   background-image:url("http://3.bp.blogspot.com/-aNRb0w9Uu2E/Uk0w1v9lXjI/AAAAAAAAHrM/RipxfZqlQQ4/s1600/Texture-Backgrounds-Wallpaper-HD.jpg");
+   background-size: contain;
+   background-position: center; 
+}
+ 
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+			.column3 {
+				margin-right: 0%;
+                }
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: #efefef;
+				padding: 0.5em 0;}
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #efefef;}
+#nav  {background-color: gray;}
+
+#content {background-color: rgb(255, 255);}
+
+#footer {background-color: gray;}
+
+.column1{background-color: orange}
+
+.column2{background-color: pink}
+
+.column3{background-color:  orange}
+
+#feature {
+ background-color: blue;
+ background-image: url("https://www.rd.com/wp-content/uploads/2018/05/shutterstock_725437768-760x506.jpg" );
+ background-size:contain;
+ background-position: right;
+ background-repeat:no-repeat;}
+
+
+
+h1 {
+  background-position:center;
+  
+}
